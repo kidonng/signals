@@ -1,5 +1,12 @@
 # @preact/signals-core
 
+## 1.0.2
+
+### Patch Changes
+
+- 336bb34: Don't mangle `Signal` class name
+- 32abe07: Fix internal API functions being able to unmark non-invalidated signals
+
 ## 1.0.1
 
 ### Patch Changes

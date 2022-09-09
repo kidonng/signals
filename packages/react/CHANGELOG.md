@@ -1,5 +1,14 @@
 # @preact/signals-react
 
+## 1.0.1
+
+### Patch Changes
+
+- 62439c9: Fixes invalid React peer dependency range for environments with strict peerDeps
+- Updated dependencies [336bb34]
+- Updated dependencies [32abe07]
+  - @preact/signals-core@1.0.2
+
 ## 1.0.0
 
 ### Major Changes
